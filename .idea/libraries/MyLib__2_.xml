@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MyLib (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/data_stracter/MyLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/data_stracter/MyLib" recursive="false" />
+  </library>
+</component>
